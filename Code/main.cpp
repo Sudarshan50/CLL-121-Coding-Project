@@ -195,14 +195,14 @@ signed main()
     fstream out;
     out.open("output.txt",ios::out);
     out<<"||--------------------------------------------||"<<endl;
-    out<<"||          CLL-121 Coding Project:-          ||"<<endl;
+    out<<"||       -*- CLL-121 Coding Project -*-       ||"<<endl;
     out<<"||--------------------------------------------||"<<endl<<endl;
     while (n--)
     {
         db temp,press,molality;
         inp>>temp>>press>>molality;
         out<<"||---------------------------------------------------------||"<<endl;
-        out<<"          Temperature:- "<<temp<<"°C"<<" "<<"Pressure:- "<<press<<"bar"<<endl;
+        out<<"        -*- Temperature:- "<<temp<<"°C,"<<" "<<"Pressure:- "<<press<<"bar -*-"<<endl;
         out<<"||---------------------------------------------------------||"<<endl;
         out<<"Phi value:- "<<calcphi(temp,press)<<endl;
         out<<"Henry Constant is:- "<<henconst(temp,press)<<endl;
