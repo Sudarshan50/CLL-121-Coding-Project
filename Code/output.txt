@@ -1,0 +1,1116 @@
+||--------------------------------------------||
+||          CLL-121 Coding Project:-          ||
+||--------------------------------------------||
+
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 83bar
+||---------------------------------------------------------||
+Phi value:- 0.710636
+Henry Constant is:- 3522.78
+Equilibrium Constant for H2o:- 0.0119784
+Equilibrium Constant for Co2:- 59.9704
+Vapour Phase mole fraction for H2o:- 0.011781
+Normalised vapour phase mole fraction for Co2:- 0.988356
+Liquid phase mole fraction for Co2(%):- 1.64807
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 103bar
+||---------------------------------------------------------||
+Phi value:- 0.649337
+Henry Constant is:- 3607.79
+Equilibrium Constant for H2o:- 0.00965255
+Equilibrium Constant for Co2:- 54.1631
+Vapour Phase mole fraction for H2o:- 0.00947602
+Normalised vapour phase mole fraction for Co2:- 0.990613
+Liquid phase mole fraction for Co2(%):- 1.82894
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 138bar
+||---------------------------------------------------------||
+Phi value:- 0.555826
+Henry Constant is:- 3760.9
+Equilibrium Constant for H2o:- 0.00720487
+Equilibrium Constant for Co2:- 49.23
+Vapour Phase mole fraction for H2o:- 0.00705955
+Normalised vapour phase mole fraction for Co2:- 0.99299
+Liquid phase mole fraction for Co2(%):- 2.01704
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 172bar
+||---------------------------------------------------------||
+Phi value:- 0.48998
+Henry Constant is:- 3915.09
+Equilibrium Constant for H2o:- 0.00578136
+Equilibrium Constant for Co2:- 46.6417
+Vapour Phase mole fraction for H2o:- 0.00565811
+Normalised vapour phase mole fraction for Co2:- 0.994374
+Liquid phase mole fraction for Co2(%):- 2.13194
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 193bar
+||---------------------------------------------------------||
+Phi value:- 0.45947
+Henry Constant is:- 4013.08
+Equilibrium Constant for H2o:- 0.00515285
+Equilibrium Constant for Co2:- 45.4351
+Vapour Phase mole fraction for H2o:- 0.00504001
+Normalised vapour phase mole fraction for Co2:- 0.994985
+Liquid phase mole fraction for Co2(%):- 2.1899
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 41bar
+||---------------------------------------------------------||
+Phi value:- 0.875809
+Henry Constant is:- 4236.28
+Equilibrium Constant for H2o:- 0.0240564
+Equilibrium Constant for Co2:- 118.45
+Vapour Phase mole fraction for H2o:- 0.0238581
+Normalised vapour phase mole fraction for Co2:- 0.976698
+Liquid phase mole fraction for Co2(%):- 0.824563
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 83bar
+||---------------------------------------------------------||
+Phi value:- 0.762155
+Henry Constant is:- 4445.48
+Equilibrium Constant for H2o:- 0.0118789
+Equilibrium Constant for Co2:- 70.5576
+Vapour Phase mole fraction for H2o:- 0.0117126
+Normalised vapour phase mole fraction for Co2:- 0.988423
+Liquid phase mole fraction for Co2(%):- 1.40087
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 103bar
+||---------------------------------------------------------||
+Phi value:- 0.712995
+Henry Constant is:- 4548.19
+Equilibrium Constant for H2o:- 0.00957102
+Equilibrium Constant for Co2:- 62.1813
+Vapour Phase mole fraction for H2o:- 0.00941855
+Normalised vapour phase mole fraction for Co2:- 0.990669
+Liquid phase mole fraction for Co2(%):- 1.5932
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 138bar
+||---------------------------------------------------------||
+Phi value:- 0.636242
+Henry Constant is:- 4732.9
+Equilibrium Constant for H2o:- 0.00714223
+Equilibrium Constant for Co2:- 54.1205
+Vapour Phase mole fraction for H2o:- 0.00701119
+Normalised vapour phase mole fraction for Co2:- 0.993038
+Liquid phase mole fraction for Co2(%):- 1.83487
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 158bar
+||---------------------------------------------------------||
+Phi value:- 0.598829
+Henry Constant is:- 4841.33
+Equilibrium Constant for H2o:- 0.00623767
+Equilibrium Constant for Co2:- 51.373
+Vapour Phase mole fraction for H2o:- 0.00611699
+Normalised vapour phase mole fraction for Co2:- 0.99392
+Liquid phase mole fraction for Co2(%):- 1.93471
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 172bar
+||---------------------------------------------------------||
+Phi value:- 0.575669
+Henry Constant is:- 4918.51
+Equilibrium Constant for H2o:- 0.00572971
+Equilibrium Constant for Co2:- 49.8722
+Vapour Phase mole fraction for H2o:- 0.00561546
+Normalised vapour phase mole fraction for Co2:- 0.994416
+Liquid phase mole fraction for Co2(%):- 1.99393
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 213bar
+||---------------------------------------------------------||
+Phi value:- 0.520908
+Henry Constant is:- 5150.69
+Equilibrium Constant for H2o:- 0.00462651
+Equilibrium Constant for Co2:- 46.6054
+Vapour Phase mole fraction for H2o:- 0.00452769
+Normalised vapour phase mole fraction for Co2:- 0.995493
+Liquid phase mole fraction for Co2(%):- 2.136
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 94.9bar
+||---------------------------------------------------------||
+Phi value:- 0.732492
+Henry Constant is:- 4506.35
+Equilibrium Constant for H2o:- 0.0103885
+Equilibrium Constant for Co2:- 67.4605
+Vapour Phase mole fraction for H2o:- 0.0102361
+Normalised vapour phase mole fraction for Co2:- 0.989868
+Liquid phase mole fraction for Co2(%):- 1.46733
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.1°C Pressure:- 99.4bar
+||---------------------------------------------------------||
+Phi value:- 0.721856
+Henry Constant is:- 4533.9
+Equilibrium Constant for H2o:- 0.00991729
+Equilibrium Constant for Co2:- 65.7535
+Vapour Phase mole fraction for H2o:- 0.00976794
+Normalised vapour phase mole fraction for Co2:- 0.990327
+Liquid phase mole fraction for Co2(%):- 1.50612
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.2°C Pressure:- 41.3bar
+||---------------------------------------------------------||
+Phi value:- 0.875184
+Henry Constant is:- 4245.98
+Equilibrium Constant for H2o:- 0.0238788
+Equilibrium Constant for Co2:- 122.244
+Vapour Phase mole fraction for H2o:- 0.0236881
+Normalised vapour phase mole fraction for Co2:- 0.97686
+Liquid phase mole fraction for Co2(%):- 0.799109
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.2°C Pressure:- 60.2bar
+||---------------------------------------------------------||
+Phi value:- 0.822498
+Henry Constant is:- 4339.22
+Equilibrium Constant for H2o:- 0.0163791
+Equilibrium Constant for Co2:- 91.2019
+Vapour Phase mole fraction for H2o:- 0.0162024
+Normalised vapour phase mole fraction for Co2:- 0.984056
+Liquid phase mole fraction for Co2(%):- 1.07899
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.2°C Pressure:- 60.7bar
+||---------------------------------------------------------||
+Phi value:- 0.821142
+Henry Constant is:- 4341.71
+Equilibrium Constant for H2o:- 0.0162441
+Equilibrium Constant for Co2:- 90.6521
+Vapour Phase mole fraction for H2o:- 0.0160678
+Normalised vapour phase mole fraction for Co2:- 0.984186
+Liquid phase mole fraction for Co2(%):- 1.08567
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.3°C Pressure:- 40.4bar
+||---------------------------------------------------------||
+Phi value:- 0.877877
+Henry Constant is:- 4245.69
+Equilibrium Constant for H2o:- 0.0244095
+Equilibrium Constant for Co2:- 124.574
+Vapour Phase mole fraction for H2o:- 0.0242183
+Normalised vapour phase mole fraction for Co2:- 0.976354
+Liquid phase mole fraction for Co2(%):- 0.783754
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.3°C Pressure:- 80.4bar
+||---------------------------------------------------------||
+Phi value:- 0.769452
+Henry Constant is:- 4445.08
+Equilibrium Constant for H2o:- 0.0122611
+Equilibrium Constant for Co2:- 74.7746
+Vapour Phase mole fraction for H2o:- 0.0120991
+Normalised vapour phase mole fraction for Co2:- 0.988045
+Liquid phase mole fraction for Co2(%):- 1.32136
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80.5°C Pressure:- 80.5bar
+||---------------------------------------------------------||
+Phi value:- 0.769637
+Henry Constant is:- 4454.11
+Equilibrium Constant for H2o:- 0.0122444
+Equilibrium Constant for Co2:- 74.815
+Vapour Phase mole fraction for H2o:- 0.0120827
+Normalised vapour phase mole fraction for Co2:- 0.988062
+Liquid phase mole fraction for Co2(%):- 1.32067
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 41bar
+||---------------------------------------------------------||
+Phi value:- 0.849679
+Henry Constant is:- 3349.97
+Equilibrium Constant for H2o:- 0.0242506
+Equilibrium Constant for Co2:- 100.181
+Vapour Phase mole fraction for H2o:- 0.0240144
+Normalised vapour phase mole fraction for Co2:- 0.976549
+Liquid phase mole fraction for Co2(%):- 0.974784
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 83bar
+||---------------------------------------------------------||
+Phi value:- 0.710636
+Henry Constant is:- 3522.78
+Equilibrium Constant for H2o:- 0.0119784
+Equilibrium Constant for Co2:- 62.2119
+Vapour Phase mole fraction for H2o:- 0.0117882
+Normalised vapour phase mole fraction for Co2:- 0.988349
+Liquid phase mole fraction for Co2(%):- 1.58868
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 138bar
+||---------------------------------------------------------||
+Phi value:- 0.555826
+Henry Constant is:- 3760.9
+Equilibrium Constant for H2o:- 0.00720487
+Equilibrium Constant for Co2:- 51.046
+Vapour Phase mole fraction for H2o:- 0.00706472
+Normalised vapour phase mole fraction for Co2:- 0.992985
+Liquid phase mole fraction for Co2(%):- 1.94527
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 158bar
+||---------------------------------------------------------||
+Phi value:- 0.514286
+Henry Constant is:- 3850.94
+Equilibrium Constant for H2o:- 0.00629327
+Equilibrium Constant for Co2:- 49.3282
+Vapour Phase mole fraction for H2o:- 0.00616647
+Normalised vapour phase mole fraction for Co2:- 0.993871
+Liquid phase mole fraction for Co2(%):- 2.01482
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 172bar
+||---------------------------------------------------------||
+Phi value:- 0.48998
+Henry Constant is:- 3915.09
+Equilibrium Constant for H2o:- 0.00578136
+Equilibrium Constant for Co2:- 48.3452
+Vapour Phase mole fraction for H2o:- 0.00566245
+Normalised vapour phase mole fraction for Co2:- 0.994369
+Liquid phase mole fraction for Co2(%):- 2.05681
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 60°C Pressure:- 193bar
+||---------------------------------------------------------||
+Phi value:- 0.45947
+Henry Constant is:- 4013.08
+Equilibrium Constant for H2o:- 0.00515285
+Equilibrium Constant for Co2:- 47.0835
+Vapour Phase mole fraction for H2o:- 0.00504396
+Normalised vapour phase mole fraction for Co2:- 0.994981
+Liquid phase mole fraction for Co2(%):- 2.11323
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 41bar
+||---------------------------------------------------------||
+Phi value:- 0.875809
+Henry Constant is:- 4236.28
+Equilibrium Constant for H2o:- 0.0240564
+Equilibrium Constant for Co2:- 122.798
+Vapour Phase mole fraction for H2o:- 0.0238651
+Normalised vapour phase mole fraction for Co2:- 0.976691
+Liquid phase mole fraction for Co2(%):- 0.795361
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 83bar
+||---------------------------------------------------------||
+Phi value:- 0.762155
+Henry Constant is:- 4445.48
+Equilibrium Constant for H2o:- 0.0118789
+Equilibrium Constant for Co2:- 73.1493
+Vapour Phase mole fraction for H2o:- 0.0117185
+Normalised vapour phase mole fraction for Co2:- 0.988417
+Liquid phase mole fraction for Co2(%):- 1.35123
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 138bar
+||---------------------------------------------------------||
+Phi value:- 0.636242
+Henry Constant is:- 4732.9
+Equilibrium Constant for H2o:- 0.00714223
+Equilibrium Constant for Co2:- 56.0934
+Vapour Phase mole fraction for H2o:- 0.0070158
+Normalised vapour phase mole fraction for Co2:- 0.993033
+Liquid phase mole fraction for Co2(%):- 1.77032
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 172bar
+||---------------------------------------------------------||
+Phi value:- 0.575669
+Henry Constant is:- 4918.51
+Equilibrium Constant for H2o:- 0.00572971
+Equilibrium Constant for Co2:- 51.6782
+Vapour Phase mole fraction for H2o:- 0.00561946
+Normalised vapour phase mole fraction for Co2:- 0.994412
+Liquid phase mole fraction for Co2(%):- 1.92424
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 80°C Pressure:- 213bar
+||---------------------------------------------------------||
+Phi value:- 0.520908
+Henry Constant is:- 5150.69
+Equilibrium Constant for H2o:- 0.00462651
+Equilibrium Constant for Co2:- 48.2779
+Vapour Phase mole fraction for H2o:- 0.00453111
+Normalised vapour phase mole fraction for Co2:- 0.995489
+Liquid phase mole fraction for Co2(%):- 2.062
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 48bar
+||---------------------------------------------------------||
+Phi value:- 0.880488
+Henry Constant is:- 5014.29
+Equilibrium Constant for H2o:- 0.0202584
+Equilibrium Constant for Co2:- 148.847
+Vapour Phase mole fraction for H2o:- 0.020125
+Normalised vapour phase mole fraction for Co2:- 0.980272
+Liquid phase mole fraction for Co2(%):- 0.658579
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 49.95°C Pressure:- 51bar
+||---------------------------------------------------------||
+Phi value:- 0.796122
+Henry Constant is:- 2911.24
+Equilibrium Constant for H2o:- 0.0195229
+Equilibrium Constant for Co2:- 90.879
+Vapour Phase mole fraction for H2o:- 0.0193122
+Normalised vapour phase mole fraction for Co2:- 0.981054
+Liquid phase mole fraction for Co2(%):- 1.07952
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 49.95°C Pressure:- 100.3bar
+||---------------------------------------------------------||
+Phi value:- 0.617418
+Henry Constant is:- 3092.89
+Equilibrium Constant for H2o:- 0.00992809
+Equilibrium Constant for Co2:- 63.1338
+Vapour Phase mole fraction for H2o:- 0.00977237
+Normalised vapour phase mole fraction for Co2:- 0.990322
+Liquid phase mole fraction for Co2(%):- 1.56861
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 49.95°C Pressure:- 143.8bar
+||---------------------------------------------------------||
+Phi value:- 0.493668
+Henry Constant is:- 3261.43
+Equilibrium Constant for H2o:- 0.00692635
+Equilibrium Constant for Co2:- 57.881
+Vapour Phase mole fraction for H2o:- 0.0068075
+Normalised vapour phase mole fraction for Co2:- 0.993239
+Liquid phase mole fraction for Co2(%):- 1.716
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 50bar
+||---------------------------------------------------------||
+Phi value:- 0.800091
+Henry Constant is:- 2912.44
+Equilibrium Constant for H2o:- 0.0199132
+Equilibrium Constant for Co2:- 92.2748
+Vapour Phase mole fraction for H2o:- 0.0197016
+Normalised vapour phase mole fraction for Co2:- 0.980679
+Liquid phase mole fraction for Co2(%):- 1.06278
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 100bar
+||---------------------------------------------------------||
+Phi value:- 0.618907
+Henry Constant is:- 3096.79
+Equilibrium Constant for H2o:- 0.00995778
+Equilibrium Constant for Co2:- 63.2503
+Vapour Phase mole fraction for H2o:- 0.00980189
+Normalised vapour phase mole fraction for Co2:- 0.990293
+Liquid phase mole fraction for Co2(%):- 1.56567
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481007
+Henry Constant is:- 3288.76
+Equilibrium Constant for H2o:- 0.0066403
+Equilibrium Constant for Co2:- 57.396
+Vapour Phase mole fraction for H2o:- 0.00652536
+Normalised vapour phase mole fraction for Co2:- 0.993517
+Liquid phase mole fraction for Co2(%):- 1.73099
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481261
+Henry Constant is:- 3291.41
+Equilibrium Constant for H2o:- 0.00664026
+Equilibrium Constant for Co2:- 57.4112
+Vapour Phase mole fraction for H2o:- 0.00652536
+Normalised vapour phase mole fraction for Co2:- 0.993517
+Liquid phase mole fraction for Co2(%):- 1.73053
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 200bar
+||---------------------------------------------------------||
+Phi value:- 0.404884
+Henry Constant is:- 3496.8
+Equilibrium Constant for H2o:- 0.0049822
+Equilibrium Constant for Co2:- 54.1367
+Vapour Phase mole fraction for H2o:- 0.00489062
+Normalised vapour phase mole fraction for Co2:- 0.995133
+Liquid phase mole fraction for Co2(%):- 1.83819
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 300bar
+||---------------------------------------------------------||
+Phi value:- 0.329144
+Henry Constant is:- 3942
+Equilibrium Constant for H2o:- 0.0033255
+Equilibrium Constant for Co2:- 49.5756
+Vapour Phase mole fraction for H2o:- 0.00325864
+Normalised vapour phase mole fraction for Co2:- 0.996752
+Liquid phase mole fraction for Co2(%):- 2.01057
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 99.95°C Pressure:- 50.7bar
+||---------------------------------------------------------||
+Phi value:- 0.87416
+Henry Constant is:- 5027.79
+Equilibrium Constant for H2o:- 0.0191794
+Equilibrium Constant for Co2:- 142.329
+Vapour Phase mole fraction for H2o:- 0.0190472
+Normalised vapour phase mole fraction for Co2:- 0.981309
+Liquid phase mole fraction for Co2(%):- 0.689464
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 99.95°C Pressure:- 104bar
+||---------------------------------------------------------||
+Phi value:- 0.760429
+Henry Constant is:- 5334.43
+Equilibrium Constant for H2o:- 0.00934226
+Equilibrium Constant for Co2:- 84.5524
+Vapour Phase mole fraction for H2o:- 0.00923279
+Normalised vapour phase mole fraction for Co2:- 0.990852
+Liquid phase mole fraction for Co2(%):- 1.17188
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 99.95°C Pressure:- 191.4bar
+||---------------------------------------------------------||
+Phi value:- 0.620809
+Henry Constant is:- 5871.58
+Equilibrium Constant for H2o:- 0.00507114
+Equilibrium Constant for Co2:- 61.6802
+Vapour Phase mole fraction for H2o:- 0.00498933
+Normalised vapour phase mole fraction for Co2:- 0.995035
+Liquid phase mole fraction for Co2(%):- 1.61322
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 50bar
+||---------------------------------------------------------||
+Phi value:- 0.875896
+Henry Constant is:- 5027.12
+Equilibrium Constant for H2o:- 0.0194466
+Equilibrium Constant for Co2:- 144.013
+Vapour Phase mole fraction for H2o:- 0.0193142
+Normalised vapour phase mole fraction for Co2:- 0.981052
+Liquid phase mole fraction for Co2(%):- 0.681223
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 100bar
+||---------------------------------------------------------||
+Phi value:- 0.76849
+Henry Constant is:- 5314.28
+Equilibrium Constant for H2o:- 0.00971571
+Equilibrium Constant for Co2:- 86.6948
+Vapour Phase mole fraction for H2o:- 0.00960471
+Normalised vapour phase mole fraction for Co2:- 0.990487
+Liquid phase mole fraction for Co2(%):- 1.1425
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679377
+Henry Constant is:- 5615.24
+Equilibrium Constant for H2o:- 0.00647299
+Equilibrium Constant for Co2:- 68.9323
+Vapour Phase mole fraction for H2o:- 0.00637968
+Normalised vapour phase mole fraction for Co2:- 0.993661
+Liquid phase mole fraction for Co2(%):- 1.4415
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679229
+Henry Constant is:- 5613.46
+Equilibrium Constant for H2o:- 0.00647326
+Equilibrium Constant for Co2:- 68.9256
+Vapour Phase mole fraction for H2o:- 0.00637994
+Normalised vapour phase mole fraction for Co2:- 0.993661
+Liquid phase mole fraction for Co2(%):- 1.44164
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 200bar
+||---------------------------------------------------------||
+Phi value:- 0.610809
+Henry Constant is:- 5930.55
+Equilibrium Constant for H2o:- 0.00485229
+Equilibrium Constant for Co2:- 60.5669
+Vapour Phase mole fraction for H2o:- 0.00477256
+Normalised vapour phase mole fraction for Co2:- 0.99525
+Liquid phase mole fraction for Co2(%):- 1.64322
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 300bar
+||---------------------------------------------------------||
+Phi value:- 0.525818
+Henry Constant is:- 6606.54
+Equilibrium Constant for H2o:- 0.00323288
+Equilibrium Constant for Co2:- 51.9245
+Vapour Phase mole fraction for H2o:- 0.00317081
+Normalised vapour phase mole fraction for Co2:- 0.996839
+Liquid phase mole fraction for Co2(%):- 1.91979
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.16°C Pressure:- 38.44bar
+||---------------------------------------------------------||
+Phi value:- 0.828154
+Henry Constant is:- 2404.66
+Equilibrium Constant for H2o:- 0.0259046
+Equilibrium Constant for Co2:- 135.161
+Vapour Phase mole fraction for H2o:- 0.0257179
+Normalised vapour phase mole fraction for Co2:- 0.974927
+Liquid phase mole fraction for Co2(%):- 0.721306
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.16°C Pressure:- 51.37bar
+||---------------------------------------------------------||
+Phi value:- 0.773471
+Henry Constant is:- 2444.5
+Equilibrium Constant for H2o:- 0.0193852
+Equilibrium Constant for Co2:- 109.984
+Vapour Phase mole fraction for H2o:- 0.0192123
+Normalised vapour phase mole fraction for Co2:- 0.98115
+Liquid phase mole fraction for Co2(%):- 0.892083
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.16°C Pressure:- 63.73bar
+||---------------------------------------------------------||
+Phi value:- 0.72203
+Henry Constant is:- 2483.13
+Equilibrium Constant for H2o:- 0.0156264
+Equilibrium Constant for Co2:- 96.3249
+Vapour Phase mole fraction for H2o:- 0.0154667
+Normalised vapour phase mole fraction for Co2:- 0.984769
+Liquid phase mole fraction for Co2(%):- 1.02234
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.16°C Pressure:- 77.89bar
+||---------------------------------------------------------||
+Phi value:- 0.663003
+Henry Constant is:- 2528.06
+Equilibrium Constant for H2o:- 0.0127866
+Equilibrium Constant for Co2:- 87.1906
+Vapour Phase mole fraction for H2o:- 0.0126418
+Normalised vapour phase mole fraction for Co2:- 0.987516
+Liquid phase mole fraction for Co2(%):- 1.1326
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.16°C Pressure:- 91.29bar
+||---------------------------------------------------------||
+Phi value:- 0.604595
+Henry Constant is:- 2571.24
+Equilibrium Constant for H2o:- 0.0109105
+Equilibrium Constant for Co2:- 82.773
+Vapour Phase mole fraction for H2o:- 0.0107802
+Normalised vapour phase mole fraction for Co2:- 0.989335
+Liquid phase mole fraction for Co2(%):- 1.19524
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 57.39bar
+||---------------------------------------------------------||
+Phi value:- 0.772318
+Henry Constant is:- 2936.65
+Equilibrium Constant for H2o:- 0.0173492
+Equilibrium Constant for Co2:- 117.526
+Vapour Phase mole fraction for H2o:- 0.0172041
+Normalised vapour phase mole fraction for Co2:- 0.983087
+Liquid phase mole fraction for Co2(%):- 0.836487
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 87.3bar
+||---------------------------------------------------------||
+Phi value:- 0.663601
+Henry Constant is:- 3046.53
+Equilibrium Constant for H2o:- 0.0114059
+Equilibrium Constant for Co2:- 92.8416
+Vapour Phase mole fraction for H2o:- 0.0112845
+Normalised vapour phase mole fraction for Co2:- 0.988841
+Liquid phase mole fraction for Co2(%):- 1.06508
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 117.73bar
+||---------------------------------------------------------||
+Phi value:- 0.560674
+Henry Constant is:- 3162.04
+Equilibrium Constant for H2o:- 0.00845884
+Equilibrium Constant for Co2:- 84.0527
+Vapour Phase mole fraction for H2o:- 0.00835904
+Normalised vapour phase mole fraction for Co2:- 0.99171
+Liquid phase mole fraction for Co2(%):- 1.17987
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 150.2bar
+||---------------------------------------------------------||
+Phi value:- 0.480606
+Henry Constant is:- 3289.56
+Equilibrium Constant for H2o:- 0.00663146
+Equilibrium Constant for Co2:- 79.3701
+Vapour Phase mole fraction for H2o:- 0.00654846
+Normalised vapour phase mole fraction for Co2:- 0.993494
+Liquid phase mole fraction for Co2(%):- 1.25172
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 182.11bar
+||---------------------------------------------------------||
+Phi value:- 0.427315
+Henry Constant is:- 3419.3
+Equilibrium Constant for H2o:- 0.0054708
+Equilibrium Constant for Co2:- 75.9401
+Vapour Phase mole fraction for H2o:- 0.00539914
+Normalised vapour phase mole fraction for Co2:- 0.99463
+Liquid phase mole fraction for Co2(%):- 1.30976
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 79.92°C Pressure:- 40.82bar
+||---------------------------------------------------------||
+Phi value:- 0.876232
+Henry Constant is:- 4232.1
+Equilibrium Constant for H2o:- 0.0241636
+Equilibrium Constant for Co2:- 207.054
+Vapour Phase mole fraction for H2o:- 0.0240497
+Normalised vapour phase mole fraction for Co2:- 0.976515
+Liquid phase mole fraction for Co2(%):- 0.471624
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 79.92°C Pressure:- 52.21bar
+||---------------------------------------------------------||
+Phi value:- 0.844025
+Henry Constant is:- 4287.93
+Equilibrium Constant for H2o:- 0.0188901
+Equilibrium Constant for Co2:- 170.128
+Vapour Phase mole fraction for H2o:- 0.0187811
+Normalised vapour phase mole fraction for Co2:- 0.981565
+Liquid phase mole fraction for Co2(%):- 0.576956
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 79.92°C Pressure:- 64.7bar
+||---------------------------------------------------------||
+Phi value:- 0.809853
+Henry Constant is:- 4349.88
+Equilibrium Constant for H2o:- 0.0152418
+Equilibrium Constant for Co2:- 144.913
+Vapour Phase mole fraction for H2o:- 0.0151382
+Normalised vapour phase mole fraction for Co2:- 0.985088
+Liquid phase mole fraction for Co2(%):- 0.679776
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 79.92°C Pressure:- 76.79bar
+||---------------------------------------------------------||
+Phi value:- 0.777925
+Henry Constant is:- 4410.58
+Equilibrium Constant for H2o:- 0.0128408
+Equilibrium Constant for Co2:- 128.629
+Vapour Phase mole fraction for H2o:- 0.0127423
+Normalised vapour phase mole fraction for Co2:- 0.987418
+Liquid phase mole fraction for Co2(%):- 0.767646
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 79.92°C Pressure:- 100.61bar
+||---------------------------------------------------------||
+Phi value:- 0.71847
+Henry Constant is:- 4532.33
+Equilibrium Constant for H2o:- 0.009799
+Equilibrium Constant for Co2:- 108.726
+Vapour Phase mole fraction for H2o:- 0.00970975
+Normalised vapour phase mole fraction for Co2:- 0.990384
+Liquid phase mole fraction for Co2(%):- 0.910898
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 57.42bar
+||---------------------------------------------------------||
+Phi value:- 0.858823
+Henry Constant is:- 5067.25
+Equilibrium Constant for H2o:- 0.0169322
+Equilibrium Constant for Co2:- 178.562
+Vapour Phase mole fraction for H2o:- 0.016839
+Normalised vapour phase mole fraction for Co2:- 0.98344
+Liquid phase mole fraction for Co2(%):- 0.550755
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 87.89bar
+||---------------------------------------------------------||
+Phi value:- 0.792827
+Henry Constant is:- 5241.81
+Equilibrium Constant for H2o:- 0.0110568
+Equilibrium Constant for Co2:- 130.032
+Vapour Phase mole fraction for H2o:- 0.0109727
+Normalised vapour phase mole fraction for Co2:- 0.989146
+Liquid phase mole fraction for Co2(%):- 0.760695
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 118.67bar
+||---------------------------------------------------------||
+Phi value:- 0.732799
+Henry Constant is:- 5423.29
+Equilibrium Constant for H2o:- 0.00818541
+Equilibrium Constant for Co2:- 107.057
+Vapour Phase mole fraction for H2o:- 0.00810957
+Normalised vapour phase mole fraction for Co2:- 0.991956
+Liquid phase mole fraction for Co2(%):- 0.926568
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 149.21bar
+||---------------------------------------------------------||
+Phi value:- 0.68048
+Henry Constant is:- 5608.6
+Equilibrium Constant for H2o:- 0.00650759
+Equilibrium Constant for Co2:- 94.0953
+Vapour Phase mole fraction for H2o:- 0.00643887
+Normalised vapour phase mole fraction for Co2:- 0.993602
+Liquid phase mole fraction for Co2(%):- 1.05595
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 180.13bar
+||---------------------------------------------------------||
+Phi value:- 0.635422
+Henry Constant is:- 5801.67
+Equilibrium Constant for H2o:- 0.00538877
+Equilibrium Constant for Co2:- 85.6265
+Vapour Phase mole fraction for H2o:- 0.00532617
+Normalised vapour phase mole fraction for Co2:- 0.994702
+Liquid phase mole fraction for Co2(%):- 1.16168
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.23°C Pressure:- 40.27bar
+||---------------------------------------------------------||
+Phi value:- 0.820467
+Henry Constant is:- 2413.54
+Equilibrium Constant for H2o:- 0.0247276
+Equilibrium Constant for Co2:- 179.56
+Vapour Phase mole fraction for H2o:- 0.0245933
+Normalised vapour phase mole fraction for Co2:- 0.975997
+Liquid phase mole fraction for Co2(%):- 0.543549
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.23°C Pressure:- 59.78bar
+||---------------------------------------------------------||
+Phi value:- 0.73861
+Henry Constant is:- 2474.07
+Equilibrium Constant for H2o:- 0.0166587
+Equilibrium Constant for Co2:- 137.309
+Vapour Phase mole fraction for H2o:- 0.0165394
+Normalised vapour phase mole fraction for Co2:- 0.98373
+Liquid phase mole fraction for Co2(%):- 0.716433
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.23°C Pressure:- 73.78bar
+||---------------------------------------------------------||
+Phi value:- 0.680513
+Henry Constant is:- 2518.34
+Equilibrium Constant for H2o:- 0.0134986
+Equilibrium Constant for Co2:- 122.495
+Vapour Phase mole fraction for H2o:- 0.0133898
+Normalised vapour phase mole fraction for Co2:- 0.986787
+Liquid phase mole fraction for Co2(%):- 0.805576
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.23°C Pressure:- 81.22bar
+||---------------------------------------------------------||
+Phi value:- 0.649135
+Henry Constant is:- 2542.15
+Equilibrium Constant for H2o:- 0.0122625
+Equilibrium Constant for Co2:- 117.512
+Vapour Phase mole fraction for H2o:- 0.0121595
+Normalised vapour phase mole fraction for Co2:- 0.987987
+Liquid phase mole fraction for Co2(%):- 0.840756
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 40.23°C Pressure:- 90.61bar
+||---------------------------------------------------------||
+Phi value:- 0.607985
+Henry Constant is:- 2572.49
+Equilibrium Constant for H2o:- 0.0109924
+Equilibrium Constant for Co2:- 113.486
+Vapour Phase mole fraction for H2o:- 0.0108966
+Normalised vapour phase mole fraction for Co2:- 0.989221
+Liquid phase mole fraction for Co2(%):- 0.871668
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481007
+Henry Constant is:- 3288.76
+Equilibrium Constant for H2o:- 0.0066403
+Equilibrium Constant for Co2:- 107.058
+Vapour Phase mole fraction for H2o:- 0.00657868
+Normalised vapour phase mole fraction for Co2:- 0.993464
+Liquid phase mole fraction for Co2(%):- 0.927968
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 59.54bar
+||---------------------------------------------------------||
+Phi value:- 0.76434
+Henry Constant is:- 2944.43
+Equilibrium Constant for H2o:- 0.0167228
+Equilibrium Constant for Co2:- 156.985
+Vapour Phase mole fraction for H2o:- 0.016618
+Normalised vapour phase mole fraction for Co2:- 0.983654
+Liquid phase mole fraction for Co2(%):- 0.626589
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 89.53bar
+||---------------------------------------------------------||
+Phi value:- 0.655649
+Henry Constant is:- 3054.86
+Equilibrium Constant for H2o:- 0.0111219
+Equilibrium Constant for Co2:- 125.132
+Vapour Phase mole fraction for H2o:- 0.011034
+Normalised vapour phase mole fraction for Co2:- 0.989086
+Liquid phase mole fraction for Co2(%):- 0.790432
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 120.17bar
+||---------------------------------------------------------||
+Phi value:- 0.553468
+Henry Constant is:- 3171.47
+Equilibrium Constant for H2o:- 0.00828718
+Equilibrium Constant for Co2:- 113.362
+Vapour Phase mole fraction for H2o:- 0.00821468
+Normalised vapour phase mole fraction for Co2:- 0.991852
+Liquid phase mole fraction for Co2(%):- 0.87494
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 149.59bar
+||---------------------------------------------------------||
+Phi value:- 0.481831
+Henry Constant is:- 3287.12
+Equilibrium Constant for H2o:- 0.00665848
+Equilibrium Constant for Co2:- 107.133
+Vapour Phase mole fraction for H2o:- 0.00659674
+Normalised vapour phase mole fraction for Co2:- 0.993446
+Liquid phase mole fraction for Co2(%):- 0.927303
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 179.54bar
+||---------------------------------------------------------||
+Phi value:- 0.430936
+Henry Constant is:- 3408.69
+Equilibrium Constant for H2o:- 0.00554899
+Equilibrium Constant for Co2:- 102.173
+Vapour Phase mole fraction for H2o:- 0.00549498
+Normalised vapour phase mole fraction for Co2:- 0.994535
+Liquid phase mole fraction for Co2(%):- 0.973388
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679229
+Henry Constant is:- 5613.46
+Equilibrium Constant for H2o:- 0.00647326
+Equilibrium Constant for Co2:- 123.61
+Vapour Phase mole fraction for H2o:- 0.00642122
+Normalised vapour phase mole fraction for Co2:- 0.99362
+Liquid phase mole fraction for Co2(%):- 0.803834
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 60.68bar
+||---------------------------------------------------------||
+Phi value:- 0.851463
+Henry Constant is:- 5085.69
+Equilibrium Constant for H2o:- 0.0160217
+Equilibrium Constant for Co2:- 232.443
+Vapour Phase mole fraction for H2o:- 0.0159538
+Normalised vapour phase mole fraction for Co2:- 0.984297
+Liquid phase mole fraction for Co2(%):- 0.423457
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 89.16bar
+||---------------------------------------------------------||
+Phi value:- 0.790214
+Henry Constant is:- 5249.19
+Equilibrium Constant for H2o:- 0.0108991
+Equilibrium Constant for Co2:- 173.412
+Vapour Phase mole fraction for H2o:- 0.0108369
+Normalised vapour phase mole fraction for Co2:- 0.989279
+Liquid phase mole fraction for Co2(%):- 0.570479
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 120.03bar
+||---------------------------------------------------------||
+Phi value:- 0.730311
+Henry Constant is:- 5431.43
+Equilibrium Constant for H2o:- 0.00809252
+Equilibrium Constant for Co2:- 141.644
+Vapour Phase mole fraction for H2o:- 0.00803584
+Normalised vapour phase mole fraction for Co2:- 0.992028
+Liquid phase mole fraction for Co2(%):- 0.700368
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 149.24bar
+||---------------------------------------------------------||
+Phi value:- 0.680433
+Henry Constant is:- 5608.78
+Equilibrium Constant for H2o:- 0.00650628
+Equilibrium Constant for Co2:- 123.977
+Vapour Phase mole fraction for H2o:- 0.00645414
+Normalised vapour phase mole fraction for Co2:- 0.993587
+Liquid phase mole fraction for Co2(%):- 0.80143
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 181.62bar
+||---------------------------------------------------------||
+Phi value:- 0.633453
+Henry Constant is:- 5811.11
+Equilibrium Constant for H2o:- 0.00534448
+Equilibrium Constant for Co2:- 111.004
+Vapour Phase mole fraction for H2o:- 0.00529659
+Normalised vapour phase mole fraction for Co2:- 0.994731
+Liquid phase mole fraction for Co2(%):- 0.89612
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481007
+Henry Constant is:- 3288.76
+Equilibrium Constant for H2o:- 0.0066403
+Equilibrium Constant for Co2:- 128.831
+Vapour Phase mole fraction for H2o:- 0.00658909
+Normalised vapour phase mole fraction for Co2:- 0.993454
+Liquid phase mole fraction for Co2(%):- 0.771131
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 50bar
+||---------------------------------------------------------||
+Phi value:- 0.800091
+Henry Constant is:- 2912.44
+Equilibrium Constant for H2o:- 0.0199132
+Equilibrium Constant for Co2:- 215.617
+Vapour Phase mole fraction for H2o:- 0.0198226
+Normalised vapour phase mole fraction for Co2:- 0.980563
+Liquid phase mole fraction for Co2(%):- 0.45477
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 100bar
+||---------------------------------------------------------||
+Phi value:- 0.618907
+Henry Constant is:- 3096.79
+Equilibrium Constant for H2o:- 0.00995778
+Equilibrium Constant for Co2:- 145.202
+Vapour Phase mole fraction for H2o:- 0.00988988
+Normalised vapour phase mole fraction for Co2:- 0.990207
+Liquid phase mole fraction for Co2(%):- 0.681951
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481261
+Henry Constant is:- 3291.41
+Equilibrium Constant for H2o:- 0.00664026
+Equilibrium Constant for Co2:- 128.855
+Vapour Phase mole fraction for H2o:- 0.00658907
+Normalised vapour phase mole fraction for Co2:- 0.993454
+Liquid phase mole fraction for Co2(%):- 0.770984
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 200bar
+||---------------------------------------------------------||
+Phi value:- 0.404884
+Henry Constant is:- 3496.8
+Equilibrium Constant for H2o:- 0.0049822
+Equilibrium Constant for Co2:- 118.557
+Vapour Phase mole fraction for H2o:- 0.00494039
+Normalised vapour phase mole fraction for Co2:- 0.995084
+Liquid phase mole fraction for Co2(%):- 0.839332
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50.05°C Pressure:- 300bar
+||---------------------------------------------------------||
+Phi value:- 0.329144
+Henry Constant is:- 3942
+Equilibrium Constant for H2o:- 0.0033255
+Equilibrium Constant for Co2:- 103.065
+Vapour Phase mole fraction for H2o:- 0.00329334
+Normalised vapour phase mole fraction for Co2:- 0.996717
+Liquid phase mole fraction for Co2(%):- 0.967078
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679229
+Henry Constant is:- 5613.46
+Equilibrium Constant for H2o:- 0.00647326
+Equilibrium Constant for Co2:- 145.852
+Vapour Phase mole fraction for H2o:- 0.00642916
+Normalised vapour phase mole fraction for Co2:- 0.993612
+Liquid phase mole fraction for Co2(%):- 0.681247
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 50bar
+||---------------------------------------------------------||
+Phi value:- 0.875896
+Henry Constant is:- 5027.12
+Equilibrium Constant for H2o:- 0.0194466
+Equilibrium Constant for Co2:- 331.82
+Vapour Phase mole fraction for H2o:- 0.0193891
+Normalised vapour phase mole fraction for Co2:- 0.98098
+Liquid phase mole fraction for Co2(%):- 0.295636
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 100bar
+||---------------------------------------------------------||
+Phi value:- 0.76849
+Henry Constant is:- 5314.28
+Equilibrium Constant for H2o:- 0.00971571
+Equilibrium Constant for Co2:- 191.964
+Vapour Phase mole fraction for H2o:- 0.00966558
+Normalised vapour phase mole fraction for Co2:- 0.990427
+Liquid phase mole fraction for Co2(%):- 0.515944
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679377
+Henry Constant is:- 5615.24
+Equilibrium Constant for H2o:- 0.00647299
+Equilibrium Constant for Co2:- 145.859
+Vapour Phase mole fraction for H2o:- 0.00642889
+Normalised vapour phase mole fraction for Co2:- 0.993612
+Liquid phase mole fraction for Co2(%):- 0.681213
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 200bar
+||---------------------------------------------------------||
+Phi value:- 0.610809
+Henry Constant is:- 5930.55
+Equilibrium Constant for H2o:- 0.00485229
+Equilibrium Constant for Co2:- 122.189
+Vapour Phase mole fraction for H2o:- 0.00481277
+Normalised vapour phase mole fraction for Co2:- 0.99521
+Liquid phase mole fraction for Co2(%):- 0.814487
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100.05°C Pressure:- 300bar
+||---------------------------------------------------------||
+Phi value:- 0.525818
+Henry Constant is:- 6606.54
+Equilibrium Constant for H2o:- 0.00323288
+Equilibrium Constant for Co2:- 94.9058
+Vapour Phase mole fraction for H2o:- 0.00319892
+Normalised vapour phase mole fraction for Co2:- 0.996811
+Liquid phase mole fraction for Co2(%):- 1.05032
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 50°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.481007
+Henry Constant is:- 3288.76
+Equilibrium Constant for H2o:- 0.0066403
+Equilibrium Constant for Co2:- 153.284
+Vapour Phase mole fraction for H2o:- 0.00659726
+Normalised vapour phase mole fraction for Co2:- 0.993446
+Liquid phase mole fraction for Co2(%):- 0.648108
+*--------------------------------------------------------------*
+||---------------------------------------------------------||
+          Temperature:- 100°C Pressure:- 150bar
+||---------------------------------------------------------||
+Phi value:- 0.679229
+Henry Constant is:- 5613.46
+Equilibrium Constant for H2o:- 0.00647326
+Equilibrium Constant for Co2:- 169.598
+Vapour Phase mole fraction for H2o:- 0.00643533
+Normalised vapour phase mole fraction for Co2:- 0.993606
+Liquid phase mole fraction for Co2(%):- 0.585859
+*--------------------------------------------------------------*
+*--------------------* End of the Output *------------------------*

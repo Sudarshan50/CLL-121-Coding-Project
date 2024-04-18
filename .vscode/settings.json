@@ -4,6 +4,8 @@
         "*.json": "handlebars",
         "ostream": "cpp",
         "cmath": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
     }
 }

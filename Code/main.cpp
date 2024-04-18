@@ -139,21 +139,27 @@ db actcoff(db temp, db press, db molality) // Err .....
     return exp(finexp);
 }
 
+db calcphi(db temp,db press)
+{
+    vi pm = parampure(temp, press);
+    db z = solvepengrobinson(1,temp,press);
+    db phi = (z-1) - log(z - pm[4]) - (pm[3]/(pm[4]*(epsilon-sigma))) *log((z+epsilon*pm[4])/(z+sigma*pm[4]));
+    phi = exp(phi);
+    return phi;
+}
+
 db kc02(db temp, db press, db molality) // Checked.....
 {
     db henry = henconst(temp, press);
     db coeff = actcoff(temp, press, molality);
-    vi pm = parampure(temp, press);
-    db tcritialco2 = 31+273.15;
-    db pcriticalco2 = 73.8;
-    db beta = 0.07779* ((press/pcriticalco2) / ((temp+273.15)/(tcritialco2)));
-    db z = solvepengrobinson(1,temp,press);
+    // vi pm = parampure(temp, press);
+    // db tcritialco2 = 31+273.15;
+    // db pcriticalco2 = 73.8;
+    // db beta = 0.07779* ((press/pcriticalco2) / ((temp+273.15)/(tcritialco2)));
     // db z = pengrobinson(temp,press);
     // db z = pengrobison(temp,press);
-    // cout<<z<<endl<<endl;
-    db phi = (z-1) - log(z - pm[4]) - (pm[3]/(pm[4]*(epsilon-sigma))) *log((z+epsilon*pm[4])/(z+sigma*pm[4]));
-    phi = exp(phi);
-    // db phi =1;
+    // out<<z<<endl<<endl;
+    db phi = calcphi(temp,press);
     return ((henry * coeff) / (press * phi));
 }
 
@@ -164,12 +170,12 @@ db yh2o(db temp, db press, db molality) // Checked ......
     return ((1 - (1 / co2)) / ((1 / h2o) - (1 / co2)));
 }
 
-db xco2(db temp, db press, db molality)
+vi xco2(db temp, db press, db molality)
 {
     db yh20 = yh2o(temp, press, molality);
     db kco2 = kc02(temp, press, molality);
     db yco2n = (1 / (1 + yh20));
-    return (yco2n / kco2);
+    return {yco2n,(yco2n / kco2)};
 }
 
 
@@ -183,41 +189,31 @@ db zchecker(db temp, db press)
 }
 signed main()
 {
-
-    // cout<< betaqui(60,83)[0]<<" "<<betaqui(60,83)[1]<<endl;
-    // cout<<alphapr(60)<<endl;
-    // vi a = parmapure(60, 83);
-    // for(auto it:a){
-    //     cout<<it<<" ";
-    // }
-    // cout<<solvepengrobinson(0.1,60,83)<<endl;
-    // cout<<endl;
-    // cout<<kc02(60,83,1)<<endl;
-    // cout<<kc02(60,83,0.0172)<<endl;
-    // cout<<yh2o(60,83,1)<<endl;
-    // cout<<solvepengrobinson(1,100,150)<<endl;
-    // cout<<xco2(100,150,6)<<endl;
-    // cout<<"kh2o:- " <<kh2o(60,83)<<endl;
-    // cout<<"yh2o:- " <<yh2o(60,83,0.0172)<<endl;
-    // cout<<"fh20:- "<<fugh2o(60,83)<<endl;
-    // cout<<"gamma:- "<<actcoff(60,83,0.0172)<<endl;
-    // cout<<"henconst:- "<<henconst(60,83)<<endl;
-    // cout<<"kco2:- "<<kc02(60,83,0.0172)<<endl;
-    cout<<"xco2:- "<<xco2(80,83,0.172)*100<<endl;
-    // cout<<solvepengrobinson(1,100,150)<<endl;
-    // cout<<
-    // cout<<pengrobison(100,150)<<endl;
-    // cout<<kc02(60,83,0.0172)<<endl;
-    // cout<<psh2o(60)<<endl;
-    // cout<< pengrobison(100,150)<<endl;
-    // cout<<xco2(100,150,6)*100<<endl;
-    // cout<<zchecker(60,83)<<endl;
-    // cout<<zchecker(100,150)<<endl;
-    // db zg = pengrobison(temp, press);
-    // cout<<pengrobison(100,150)<<endl;
-    // cout<<kh2o(60,83)<<endl;
-    // cout<<kh2o(60,83)<<endl;
-    // cout<<kc02(60,83)<<endl;
-    // cout<<fugh2o(60,83)<<endl;
-    // cout<<kc02(80,103,0.0172)<<endl;
+    fstream inp;
+    inp.open("input.txt",ios::in);
+    int n =101;
+    fstream out;
+    out.open("output.txt",ios::out);
+    out<<"||--------------------------------------------||"<<endl;
+    out<<"||          CLL-121 Coding Project:-          ||"<<endl;
+    out<<"||--------------------------------------------||"<<endl<<endl;
+    while (n--)
+    {
+        db temp,press,molality;
+        inp>>temp>>press>>molality;
+        out<<"||---------------------------------------------------------||"<<endl;
+        out<<"          Temperature:- "<<temp<<"°C"<<" "<<"Pressure:- "<<press<<"bar"<<endl;
+        out<<"||---------------------------------------------------------||"<<endl;
+        out<<"Phi value:- "<<calcphi(temp,press)<<endl;
+        out<<"Henry Constant is:- "<<henconst(temp,press)<<endl;
+        out<<"Equilibrium Constant for H2o:- "<<kh2o(temp,press)<<endl;
+        out<<"Equilibrium Constant for Co2:- "<<kc02(temp,press,molality)<<endl;
+        out<<"Vapour Phase mole fraction for H2o:- "<<yh2o(temp,press,molality)<<endl;
+        out<<"Normalised vapour phase mole fraction for Co2:- "<<xco2(temp,press,molality)[0]<<endl;
+        out<<"Liquid phase mole fraction for Co2(%):- "<<xco2(temp,press,molality)[1]*100<<endl;
+        out<<"*--------------------------------------------------------------*"<<endl;
+    }
+    out<<"*--------------------* End of the Output *------------------------*"<<endl;
+    
+    
 }
