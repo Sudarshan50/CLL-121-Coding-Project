@@ -160,10 +160,7 @@ signed main()
         out<<"* Phi value:- "<<calcphi(temp,press)<<endl;
         out<<"* Henry Constant is:- "<<henconst(temp,press)<<endl;
         out<<"* Equilibrium Constant for H2o:- "<<kh2o(temp,press)<<endl;
-        // out<<"* Equilibrium Constant for Co2:- "<<kc02(temp,press,molality)<<endl;
-        // out<<"* Activity coeff:- "<<actcoff(temp,press,molality)<<endl;
         out<<"* Vapour Phase mole fraction for H2o:- "<<yh2o(temp,press,molality)<<endl;
-        // out<<"* Normalised vapour phase mole fraction for Co2:- "<<xco2(temp,press,molality)[0]<<endl;
         out<<"* Liquid phase mole fraction for Co2:- "<<xco2(temp,press,molality)[1]<<endl;
         out<<"*------------------------------------------------------------------------*"<<endl;
     }
